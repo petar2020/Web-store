@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Replacement 25mm Black Silicone ",
+        "price": 10.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/strips1.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "22mm Replacement Frosted Silicone",
+        "price": 14.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/strips2.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Watch Strap Band With Pins",
+        "price": 13.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/strips3.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "18mm Original Watch Strap Band ",
+        "price": 19.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/strips4.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "13"
+      },
+      "fields": {
+        "title": "Bakeey Resin Material Watch Band ",
+        "price": 29.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/strips5.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "14"
+      },
+      "fields": {
+        "title": "Bakeey 22mm Colorful Watch Band ",
+        "price": 49.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/strips6.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "15"
+      },
+      "fields": {
+        "title": "Bakeey Pure Color Watch Band",
+        "price": 39.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/strips7.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "16"
+      },
+      "fields": {
+        "title": "Camouflage Silicone Strap ",
+        "price": 45.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/strips8.png"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

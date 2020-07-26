@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lux Store</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <!-- font awesome-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+      integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+      crossorigin="anonymous"
+    />
+    <!-- custom css -->
+  </head>
+
+  <body>
+    <!--navbar-->
+    <nav class="navbar">
+      <div class="navbar-center">
+        <div class="menu-toggle">
+          <i class="fas fa-bars"></i>
+          <i class="fas fa-times"></i>
+        </div>
+        <a href="index.html" class="logo"
+          ><img src="/images/logo-rosa.png" alt=""
+        /></a>
+        <ul class="nav-list">
+          <li class="nav-item">
+            <a href="index.html" class="nav-link active">Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="watches.html" class="nav-link">Watches</a>
+          </li>
+          <li class="nav-item">
+            <a href="strips.html" class="nav-link">Strips</a>
+          </li>
+          <li class="nav-item">
+            <a href="packaging.html" class="nav-link">Packing</a>
+          </li>
+          <li class="nav-item">
+            <a href="contact.html" class="nav-link">Contact us</a>
+          </li>
+        </ul>
+        <h1>Lux Store</h1>
+        <div class="cart-btn">
+          <span class="nav-icon">
+            <i class="fas fa-cart-plus"></i>
+          </span>
+          <div class="cart-items">0</div>
+        </div>
+      </div>
+    </nav>
+    <!--end navbar-->
+    <section class="products">
+      <div class="section-title">
+        <h2>watches</h2>
+      </div>
+      <div class="products-center"></div>
+    </section>
+    <!-- end producst-->
+    <!-- cart -->
+    <div class="cart-overlay">
+      <div class="cart">
+        <span class="close-cart">
+          <i class="fas fa-window-close"></i>
+        </span>
+        <h2>your cart</h2>
+        <div class="cart-content">
+          <!-- cart item-->
+          <!-- <div class="cart-item"></div>-->
+          <!-- end cart item-->
+        </div>
+        <div class="cart-footer">
+          <h3>your total : $ <span class="cart-total">0</span></h3>
+          <button class="clear-cart banner-btn">clear cart</button>
+          <button
+            class="banner-btn"
+            onclick="window.location.href='./checkout.html'"
+          >
+            checkout
+          </button>
+        </div>
+      </div>
+    </div>
+    <!-- end cart-->
+    <!--footer-->
+    <footer class="footer-distributed">
+      <div class="footer-left">
+        <h3>Lux<span>Store</span></h3>
+
+        <p class="footer-links">
+          <a href="index.html" class="link-1">Home</a>
+
+          <a href="watches.html">Watches</a>
+
+          <a href="strips.html">Strips</a>
+
+          <a href="packaging.html">Packing</a>
+
+          <a href="contact.html">Contact us</a>
+        </p>
+
+        <p class="footer-company-name">Lux Store © 2020</p>
+      </div>
+
+      <div class="footer-center">
+        <div>
+          <i class="fa fa-map-marker"></i>
+          <p><span>Cara Dusana 54</span> Belgrade, Serbia</p>
+        </div>
+
+        <div>
+          <i class="fa fa-phone"></i>
+          <p>+381 64555444</p>
+        </div>
+
+        <div>
+          <i class="fa fa-envelope"></i>
+          <p><a href="mailto:luxstore@company.com">luxstore@company.com</a></p>
+        </div>
+      </div>
+
+      <div class="footer-right">
+        <p class="footer-company-about">
+          <span>About the company</span>
+          The most durable digital and analog-digital watches in the industry,
+          trusted by military personnel, law enforcement, surfers and outdoor
+          enthusiasts around the world.
+        </p>
+
+        <div class="footer-icons">
+          <a href="#"><i class="fab fa-facebook-square"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          <a href="#"><i class="fab fa-github"></i></a>
+        </div>
+      </div>
+    </footer>
+    <script src="/app.js"></script>
+  </body>
+</html>

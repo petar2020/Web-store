@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "CASIO GA-400GB-1A9 G-SHOCK",
+        "price": 180,
+        "image": { "fields": { "file": { "url": "./images/sat1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "CASIO GPR-B1000-1 G-SHOCK",
+        "price": 105,
+        "image": { "fields": { "file": { "url": "./images/sat2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "CASIO GA-400GB-1A G-SHOCK",
+        "price": 139.99,
+        "image": { "fields": { "file": { "url": "./images/sat3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "CASIO MTG-B1000B-1AG-SHOCK",
+        "price": 219.99,
+        "image": { "fields": { "file": { "url": "./images/sat4.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "CASIO GST-S110D-1A G-SHOCK",
+        "price": 300.99,
+        "image": { "fields": { "file": { "url": "./images/sat5.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "CASIO EFS-S560DB-1AVEF",
+        "price": 149.99,
+        "image": { "fields": { "file": { "url": "./images/sat6.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "CASIO GST-W130L-1A G-SHOCK",
+        "price": 139.99,
+        "image": { "fields": { "file": { "url": "./images/sat7.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "CASIO PRG-270-1ER",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/sat8.png" } } }
+      }
+    }
+  ]
+}
