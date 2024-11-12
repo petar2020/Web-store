@@ -4,9 +4,9 @@ Lux Store is a simple e-commerce application for selling luxury watches, featuri
 
 ## 🖼️ Screenshots
 
-![Lux Store - Home Page](./images/home-page.png)
-![Lux Store - Shop Page](./images/shop.png)
-![Lux Store - Cart Page](./images/cart.png)
+![Lux Store - Home Page](./LUX%20Store/images/home-page.png)
+![Lux Store - Shop Page](./LUX%20Store/images/shop.png)
+![Lux Store - Cart Page](./LUX%20Store/images/cart.png)
 
 ## 📂 Project Structure
 
